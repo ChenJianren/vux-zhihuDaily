@@ -3,7 +3,7 @@
 > 使用vux的panel和slider组件进行渲染的知乎日报
 <a href="http://www.jancaelm.site/demo/vux-zhihuDaily/">在线预览</a>
 <br>
-<img src="http://www.jancaelm.site/wp-content/uploads/2017/08/zhihuvux.png" alt="" width="1230" height="947" />
+<img src="http://www.jancaelm.site/wp-content/uploads/2017/09/zhihuvux.png" alt="" />
 
 ## Build Setup
 
