@@ -1,6 +1,7 @@
 # zhihu-daily
 
-> vak
+> 使用vux的panel和slider组件进行渲染的知乎日报
+<a href="http://www.jancaelm.site/demo/vux-zhihuDaily/">在线预览</a>
 
 ## Build Setup
 
