@@ -13,18 +13,6 @@ import  { AlertPlugin } from 'vux'
 Vue.use(AlertPlugin)
 
 
-
-// Vue.use(VueRouter)
-
-// const routes = [{
-//   path: '/',
-//   component: Home
-// }]
-
-// const router = new VueRouter({
-//   routes
-// })
-
 FastClick.attach(document.body)
 
 Vue.config.productionTip = false
