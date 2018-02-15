@@ -1,9 +1,9 @@
 # zhihu-daily
 
 > 使用vux的panel和slider组件进行渲染的知乎日报
-<a href="http://www.jancaelm.site/demo/vux-zhihuDaily/">在线预览</a>
+<a href="http://www.supine.cn/demo/vux-zhihuDaily/">在线预览</a>
 <br>
-<img src="http://www.jancaelm.site/wp-content/uploads/2017/09/zhihuvux.png" alt="" />
+<img src="http://www.supine.cn/wp-content/uploads/2017/09/zhihuvux.png" alt="" />
 
 ## Build Setup
 
